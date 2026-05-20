@@ -1,0 +1,11 @@
+Submitted Documents in GitHub for deliverable 2 are
+
+ProCart/Meeting_minutes
+ProCart/Project_Reports
+Completed all the documentation required for deliverable 2
+1. System Structure Diagram.
+2. Requirements collection.
+   2.1 Functional requirements.
+   2.2 Non Functional requirements.
+   2.3 Interface.
+3. Splitting the requirements in to Three phases.

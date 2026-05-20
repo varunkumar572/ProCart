@@ -1,0 +1,13 @@
+Submitted Documents in GitHub for deliverable 1 are
+ProCart/README.MD
+ProCart/Meeting_minutes
+
+Added all the folders of the project
+
+ProCart/Meeting_minutes/
+
+ProCart/Planning/
+
+ProCart/Project_Reports/
+
+ProCart/src/

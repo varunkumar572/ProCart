@@ -1,0 +1,15 @@
+Submitted Documents in GitHub for deliverable 5 are
+
+ProCart/Meeting_minutes
+ProCart/Project_Reports
+ProCart/src
+ProCart/src/frontend/system_tests
+ProCart/src/socket
+submitted the report document for deliverable 5:
+1. briefing requirements
+2. uml diagrams
+3. test cases + system tests
+4. user manual
+5. instructions
+6. peer review feedback
+7. a brief reflection 
